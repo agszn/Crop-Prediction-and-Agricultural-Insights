@@ -1,0 +1,192 @@
+{
+  "Karnataka": {
+    "Bagalkot": [
+      {
+        "crop": "Sugarcane",
+        "attributes": {
+          "Nitrogen": "High",
+          "Phosphorous": "Medium",
+          "Potassium": "High",
+          "Temperature": "25°C - 35°C",
+          "Humidity": "60% - 80%",
+          "pH": "6.0 - 7.5",
+          "Rainfall": "800 - 1200 mm"
+        }
+      },
+      {
+        "crop": "Maize",
+        "attributes": {
+          "Nitrogen": "Medium",
+          "Phosphorous": "High",
+          "Potassium": "Medium",
+          "Temperature": "20°C - 30°C",
+          "Humidity": "50% - 70%",
+          "pH": "5.5 - 7.0",
+          "Rainfall": "600 - 1000 mm"
+        }
+      },
+      {
+        "crop": "Groundnut",
+        "attributes": {
+          "Nitrogen": "Medium",
+          "Phosphorous": "High",
+          "Potassium": "High",
+          "Temperature": "25°C - 35°C",
+          "Humidity": "60% - 80%",
+          "pH": "6.0 - 7.0",
+          "Rainfall": "500 - 800 mm"
+        }
+      },
+      {
+        "crop": "Sunflower",
+        "attributes": {
+          "Nitrogen": "High",
+          "Phosphorous": "Medium",
+          "Potassium": "Medium",
+          "Temperature": "20°C - 30°C",
+          "Humidity": "50% - 70%",
+          "pH": "6.0 - 7.5",
+          "Rainfall": "600 - 1000 mm"
+        }
+      }
+    ],
+    "Ballari": [
+      {
+        "crop": "Rice",
+        "attributes": {
+          "Nitrogen": "High",
+          "Phosphorous": "High",
+          "Potassium": "Medium",
+          "Temperature": "25°C - 35°C",
+          "Humidity": "70% - 90%",
+          "pH": "5.0 - 6.5",
+          "Rainfall": "1000 - 1500 mm"
+        }
+      },
+      {
+        "crop": "Maize",
+        "attributes": {
+          "Nitrogen": "Medium",
+          "Phosphorous": "Medium",
+          "Potassium": "Medium",
+          "Temperature": "20°C - 30°C",
+          "Humidity": "50% - 70%",
+          "pH": "5.5 - 7.0",
+          "Rainfall": "600 - 1000 mm"
+        }
+      },
+      {
+        "crop": "Groundnut",
+        "attributes": {
+          "Nitrogen": "High",
+          "Phosphorous": "Medium",
+          "Potassium": "Medium",
+          "Temperature": "25°C - 35°C",
+          "Humidity": "60% - 80%",
+          "pH": "6.0 - 7.0",
+          "Rainfall": "500 - 800 mm"
+        }
+      },
+      {
+        "crop": "Sugarcane",
+        "attributes": {
+          "Nitrogen": "High",
+          "Phosphorous": "High",
+          "Potassium": "High",
+          "Temperature": "25°C - 35°C",
+          "Humidity": "60% - 80%",
+          "pH": "6.0 - 7.5",
+          "Rainfall": "800 - 1200 mm"
+        }
+      }
+    ],
+    "Belagavi": [
+      {
+        "crop": "Sugarcane",
+        "attributes": {
+          "Nitrogen": "High",
+          "Phosphorous": "High",
+          "Potassium": "High",
+          "Temperature": "25°C - 35°C",
+          "Humidity": "60% - 80%",
+          "pH": "6.0 - 7.5",
+          "Rainfall": "800 - 1200 mm"
+        }
+      },
+      {
+        "crop": "Maize",
+        "attributes": {
+          "Nitrogen": "Medium",
+          "Phosphorous": "Medium",
+          "Potassium": "Medium",
+          "Temperature": "20°C - 30°C",
+          "Humidity": "50% - 70%",
+          "pH": "5.5 - 7.0",
+          "Rainfall": "600 - 1000 mm"
+        }
+      },
+      {
+        "crop": "Soybean",
+        "attributes": {
+          "Nitrogen": "High",
+          "Phosphorous": "Medium",
+          "Potassium": "Medium",
+          "Temperature": "20°C - 30°C",
+          "Humidity": "50% - 70%",
+          "pH": "6.0 - 7.0",
+          "Rainfall": "600 - 1000 mm"
+        }
+      },
+      {
+        "crop": "Groundnut",
+        "attributes": {
+          "Nitrogen": "High",
+          "Phosphorous": "Medium",
+          "Potassium": "High",
+          "Temperature": "25°C - 35°C",
+          "Humidity": "60% - 80%",
+          "pH": "6.0 - 7.0",
+          "Rainfall": "500 - 800 mm"
+        }
+      }
+    ],
+    "Bengaluru Urban": [
+      {
+        "crop": "Vegetables",
+        "attributes": {
+          "Nitrogen": "High",
+          "Phosphorous": "Medium",
+          "Potassium": "Medium",
+          "Temperature": "20°C - 30°C",
+          "Humidity": "50% - 70%",
+          "pH": "6.0 - 7.5",
+          "Rainfall": "600 - 1000 mm"
+        }
+      },
+      {
+        "crop": "Fruits",
+        "attributes": {
+          "Nitrogen": "Medium",
+          "Phosphorous": "Low",
+          "Potassium": "Low",
+          "Temperature": "20°C - 30°C",
+          "Humidity": "60% - 80%",
+          "pH": "6.0 - 7.0",
+          "Rainfall": "500 - 800 mm"
+        }
+      },
+      {
+        "crop": "Flowers",
+        "attributes": {
+          "Nitrogen": "Low",
+          "Phosphorous": "Medium",
+          "Potassium": "Medium",
+          "Temperature": "25°C - 35°C",
+          "Humidity": "60% - 80%",
+          "pH": "5.5 - 7.0",
+          "Rainfall": "600 - 1000 mm"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "Sugarcane": {"Nitrogen": 100, "Phosphorous": 50, "Potassium": 80, "Temperature": 30, "Humidity": 70, "pH": 6.5, "Rainfall": 100},
+    "Maize": {"Nitrogen": 120, "Phosphorous": 40, "Potassium": 60, "Temperature": 25, "Humidity": 60, "pH": 6.0, "Rainfall": 80},
+    "Groundnut": {"Nitrogen": 80, "Phosphorous": 30, "Potassium": 50, "Temperature": 28, "Humidity": 65, "pH": 6.2, "Rainfall": 90},
+    "Sunflower": {"Nitrogen": 90, "Phosphorous": 45, "Potassium": 70, "Temperature": 32, "Humidity": 75, "pH": 6.8, "Rainfall": 110},
+    "Rice": {"Nitrogen": 110, "Phosphorous": 55, "Potassium": 75, "Temperature": 28, "Humidity": 80, "pH": 6.0, "Rainfall": 120},
+    "Soybean": {"Nitrogen": 100, "Phosphorous": 45, "Potassium": 65, "Temperature": 27, "Humidity": 70, "pH": 6.5, "Rainfall": 100},
+    "Jowar": {"Nitrogen": 90, "Phosphorous": 40, "Potassium": 55, "Temperature": 26, "Humidity": 65, "pH": 6.2, "Rainfall": 90},
+    "Pulses": {"Nitrogen": 80, "Phosphorous": 35, "Potassium": 45, "Temperature": 24, "Humidity": 60, "pH": 6.0, "Rainfall": 80},
+    "Vegetables": {"Nitrogen": 120, "Phosphorous": 50, "Potassium": 70, "Temperature": 28, "Humidity": 75, "pH": 6.8, "Rainfall": 110},
+    "Fruits": {"Nitrogen": 110, "Phosphorous": 55, "Potassium": 80, "Temperature": 30, "Humidity": 80, "pH": 6.5, "Rainfall": 120},
+    "Flowers": {"Nitrogen": 100, "Phosphorous": 60, "Potassium": 90, "Temperature": 32, "Humidity": 85, "pH": 6.0, "Rainfall": 100}
+}
